@@ -114,36 +114,14 @@ This project helps answer questions such as:
 - Which variables are the strongest predictors of insurance charges?
 - How accurately can a Linear Regression model estimate medical costs?
 
-
-## 📊 Example Prediction
-
-Input:
-
-- Age: 35
-- Sex: Male
-- BMI: 28.5
-- Children: 2
-- Smoker: No
-- Region: Northwest
-
-Output:
-
-```
-Predicted Insurance Charges: $7,850
-```
-
-*(Example only; actual results depend on the trained model.)*
-
 ---
 
 ## 📚 Skills Demonstrated
 
 - Data Cleaning
 - Exploratory Data Analysis
-- Feature Engineering
 - Data Visualization
 - Linear Regression
-- Model Evaluation
 - Predictive Analytics
 - Python Programming
 - Machine Learning with Scikit-learn
